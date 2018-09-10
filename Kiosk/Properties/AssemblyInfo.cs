@@ -38,10 +38,10 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("IntelligentKioskSample")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("10th Magnitude Cognitive Services Demos")]
+[assembly: AssemblyDescription("Cognitive Services demos for use with 10th Magnitude. It is a customization of the Microsoft open source Kiosk demo located at https://github.com/Microsoft/Cognitive-Samples-IntelligentKiosk.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("10th Magnitude")]
 [assembly: AssemblyProduct("IntelligentKioskSample")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]

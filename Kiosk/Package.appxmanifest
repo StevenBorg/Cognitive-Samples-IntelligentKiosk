@@ -16,7 +16,7 @@
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="IntelligentKioskSample.App">
       <uap:VisualElements DisplayName="10th Magnitude Cognitive Services Demo" Square44x44Logo="Assets\squaretile-sdk-44.png" Square150x150Logo="Assets\squaretile-sdk.png" Description="10th Magnitude Cognitive Services Demo" BackgroundColor="#00B2F0">
-        <uap:SplashScreen Image="Assets\splash-sdk.png" BackgroundColor="#00B2F0" />
+        <uap:SplashScreen Image="Assets\10m_logo.png" BackgroundColor="#F26322" />
       </uap:VisualElements>
     </Application>
   </Applications>
