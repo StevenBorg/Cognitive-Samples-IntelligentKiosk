@@ -24,7 +24,7 @@
 
         <ScrollViewer Grid.Row="1" EntranceNavigationTransitionInfo.IsTargetElement="True">
             <StackPanel Margin="12">
-                <TextBlock Style="{ThemeResource BodyTextBlockStyle}">Welcome to the Intelligent Kiosk Sample! Here you will find several demos showcasing 
+                <TextBlock Style="{ThemeResource BodyTextBlockStyle}">Welcome to the 10th Magnitude Cognitive Services Demo! Here you will find several demos showcasing 
                     workflows and experiences built on top of the Microsoft Cognitive Services. 
                 </TextBlock>
 
